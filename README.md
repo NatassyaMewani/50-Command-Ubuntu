@@ -1,10 +1,10 @@
 # Tugas Sistem Operasi
 
-*Nama:* Natassya Mewani
+*Nama :* Natassya Mewani
 
-*NIM:* 09011382530161
+*NIM :* 09011382530161
 
-*Kelas:* SKU3A
+*Kelas :* SKU3A
 
 Download Tugas
 
